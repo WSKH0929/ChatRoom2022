@@ -1,0 +1,18 @@
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  datasource:
+    username: root
+    password: 12345678
+    url: jdbc:mysql://localhost:3306/chat_room?useUnicode=true&characterEncoding=utf8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+server:
+  port: 8002
+servlet:
+  #  context-path: /vmrm
+  session:
+    timeout: 3600 # session 过期时间为 1小时
+  multipart:
+    max-request-size: 50MB # 上传文件总的最大值
+    max-file-size: 2MB # 单个文件的最大值
