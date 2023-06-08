@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.wskh</groupId>
-    <artifactId>ChatRoom2022</artifactId>
+    <artifactId>ChatRoom</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ChatRoom</name>
     <description>ChatRoom</description>
