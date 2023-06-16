@@ -1,6 +1,6 @@
 # ChatRoom2022
 
-> [WSKH0929的博客_CSDN博客-人工智能,运筹优化,编程语言领域博主](https://blog.csdn.net/weixin_51545953?spm=1010.2135.3001.5343)
+> **我的博客**：[WSKH0929的博客_CSDN博客-人工智能,运筹优化,编程语言领域博主](https://blog.csdn.net/weixin_51545953?spm=1010.2135.3001.5343)
 
 **本项目为：WebSocket + SpringBoot + Vue 搭建的简易网页聊天室**
 
